@@ -1,4 +1,4 @@
-import tensorflow as tf
+import tensorflow as tf //import tensorflow
 
 a = tf.constant([2])
 b = tf.constant([15600000000])
